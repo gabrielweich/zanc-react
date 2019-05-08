@@ -1,5 +1,6 @@
-console.clear()
+process.stdout.write('\033[2J')
 console.log('-----------( let & const )-----------')
+
 
 console.log('\n-----------( Arrays & Objetos )-----------')
 
@@ -18,9 +19,11 @@ console.log('\n-----------( Rest Operator )-----------')
 
 console.log('\n-----------( Destructuring )-----------')
 
+
 console.log('\n-----------( forEach )-----------')
 
 
 console.log('\n-----------( Map )-----------')
+
 
 console.log('\n-----------( Classes )-----------')
