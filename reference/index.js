@@ -6,6 +6,7 @@ const nome_const = 1;
 console.log(++nome_let);
 //console.log(++nome_const);
 
+
 console.log('\n-----------( Arrays & Objetos )-----------')
 const arr1 = [1, 2, 3]
 const obj1 = {
